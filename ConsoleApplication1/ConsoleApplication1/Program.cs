@@ -49,9 +49,7 @@ namespace MorseTranslate
                 {'8' , "---.."},
                 {'9' , "----."},
             };
-
-
-
+            
             Console.WriteLine("Input for translation:");
             String userInput = Console.ReadLine();
             userInput = userInput.ToUpper();
